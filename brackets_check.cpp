@@ -39,7 +39,7 @@ int solution() {
 
 int getAnswer() {
     int answer;
-    cout << "Do you want continue? 1 = yes, any other input = no " << endl << "Your answer: ";
+    cout << "Do you want to continue? 1 = yes, any other input = no " << endl << "Your answer: ";
     cin >> answer;
     return answer;
 }
